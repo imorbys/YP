@@ -1,0 +1,64 @@
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Autorization.resources
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registration.resources
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detail.resources
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ModelOrg.resources
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Users.resources
+C:\Users\429195-6\Desktop\5 задание\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Masters.resources
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Autorization.resources
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detail.resources
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Masters.resources
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ModelOrg.resources
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registration.resources
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Users.resources
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Autorization.resources
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detail.resources
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Masters.resources
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ModelOrg.resources
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registration.resources
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Request.resources
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Users.resources
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Comment.resources
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Comment.resources
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Request.resources
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogForm.resources
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogForm.resources
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\РаботаСБД.dll
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\РаботаСБД.pdb
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\РаботаСБД.dll
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\РаботаСБД.pdb
+C:\Users\toi02\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\Aspose.BarCode.dll
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\Aspose.BarCode.xml
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.QRCode.resources
+C:\Users\429195-6\Desktop\ОргТехника\WindowsFormsApp1\bin\Debug\MessagingToolkit.QRCode.dll

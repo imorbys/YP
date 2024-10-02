@@ -1,0 +1,12 @@
+C:\Users\429195-6\Desktop\ОргТехника\РаботаСБД\bin\Debug\РаботаСБД.dll
+C:\Users\429195-6\Desktop\ОргТехника\РаботаСБД\bin\Debug\РаботаСБД.pdb
+C:\Users\429195-6\Desktop\ОргТехника\РаботаСБД\obj\Debug\РаботаСБД.csproj.AssemblyReference.cache
+C:\Users\429195-6\Desktop\ОргТехника\РаботаСБД\obj\Debug\РаботаСБД.csproj.CoreCompileInputs.cache
+C:\Users\429195-6\Desktop\ОргТехника\РаботаСБД\obj\Debug\РаботаСБД.dll
+C:\Users\429195-6\Desktop\ОргТехника\РаботаСБД\obj\Debug\РаботаСБД.pdb
+C:\Users\toi02\Desktop\ОргТехника\РаботаСБД\bin\Debug\РаботаСБД.dll
+C:\Users\toi02\Desktop\ОргТехника\РаботаСБД\bin\Debug\РаботаСБД.pdb
+C:\Users\toi02\Desktop\ОргТехника\РаботаСБД\obj\Debug\РаботаСБД.csproj.AssemblyReference.cache
+C:\Users\toi02\Desktop\ОргТехника\РаботаСБД\obj\Debug\РаботаСБД.csproj.CoreCompileInputs.cache
+C:\Users\toi02\Desktop\ОргТехника\РаботаСБД\obj\Debug\РаботаСБД.dll
+C:\Users\toi02\Desktop\ОргТехника\РаботаСБД\obj\Debug\РаботаСБД.pdb

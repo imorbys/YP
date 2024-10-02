@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A44A16C6-0DE3-413B-90D9-6AB0ACEA0095}|..\\UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\429195-6\\desktop\\\u043E\u0440\u0433\u0442\u0435\u0445\u043D\u0438\u043A\u0430\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|c:\\users\\429195-6\\desktop\\\u043E\u0440\u0433\u0442\u0435\u0445\u043D\u0438\u043A\u0430\\windowsformsapp1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{505F4BF4-EDCD-4992-8372-EA85F6288DE9}|..\\\u0420\u0430\u0431\u043E\u0442\u0430\u0421\u0411\u0414\\\u0420\u0430\u0431\u043E\u0442\u0430\u0421\u0411\u0414.csproj|c:\\users\\429195-6\\desktop\\\u043E\u0440\u0433\u0442\u0435\u0445\u043D\u0438\u043A\u0430\\\u0440\u0430\u0431\u043E\u0442\u0430\u0441\u0431\u0434\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|solutionrelative:request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|solutionrelative:request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|solutionrelative:detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA88DEA6-8D80-4DCB-AEE4-B23F13C61337}|WindowsFormsApp1.csproj|solutionrelative:qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAkwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:56:49.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\Users.cs",
+              "RelativeDocumentMoniker": "Users.cs",
+              "ToolTip": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\Users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Users.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:56:47.627Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:17:23.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\Detail.cs",
+              "RelativeDocumentMoniker": "Detail.cs",
+              "ToolTip": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\Detail.cs",
+              "RelativeToolTip": "Detail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:06:43.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\\u0420\u0430\u0431\u043E\u0442\u0430\u0421\u0411\u0414\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\\u0420\u0430\u0431\u043E\u0442\u0430\u0421\u0411\u0414\\Class1.cs",
+              "ToolTip": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\\u0420\u0430\u0431\u043E\u0442\u0430\u0421\u0411\u0414\\Class1.cs",
+              "RelativeToolTip": "..\\\u0420\u0430\u0431\u043E\u0442\u0430\u0421\u0411\u0414\\Class1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAQwH4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:05:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:32:01.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QRCode.cs",
+              "DocumentMoniker": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\QRCode.cs",
+              "RelativeDocumentMoniker": "QRCode.cs",
+              "ToolTip": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\QRCode.cs",
+              "RelativeToolTip": "QRCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:26:42.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:23:23.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Request.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\Request.cs",
+              "RelativeDocumentMoniker": "Request.cs",
+              "ToolTip": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\Request.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Request.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:12:44.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\Request.cs",
+              "RelativeDocumentMoniker": "Request.cs",
+              "ToolTip": "C:\\Users\\429195-6\\Desktop\\\u041E\u0440\u0433\u0422\u0435\u0445\u043D\u0438\u043A\u0430\\WindowsFormsApp1\\Request.cs",
+              "RelativeToolTip": "Request.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAYwKoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:07:19.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
